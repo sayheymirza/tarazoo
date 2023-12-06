@@ -1,0 +1,11 @@
+{
+  "name": "tarazoo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sayheymirza/tarazoo.git",
+  "author": "Mirza <sayheymirza@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "flutter build apk --release"
+  }
+}
